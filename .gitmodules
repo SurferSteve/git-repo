@@ -1,3 +1,0 @@
-[submodule "git-repo-console/git-repo"]
-	path = git-repo-console/git-repo
-	url = ./git-repo-console
